@@ -1,3 +1,5 @@
+## Original code from -- SENTDEX - https://www.youtube.com/watch?v=YY7LIEHiAfg
+
 # For the UI
 from flask import Flask, render_template, request, session
 # OpenAI API
